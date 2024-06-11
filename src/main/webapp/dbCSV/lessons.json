@@ -1,0 +1,162 @@
+[
+  {
+    "oraInizio": 9,
+    "oraFine": 10,
+    "costo": 50,
+    "dataLezione": "20-05-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d5f",
+    "insegnante": "5fc2a91b8f131f14be0aa135",
+    "materia": "Matematica",
+    "accreditata": true,
+    "luogo": "Online",
+    "recensione": {
+      "voto": 5,
+      "commento": "Ottima lezione!",
+      "dataVoto": "20-05-2024"
+    }
+  },
+  {
+    "oraInizio": 14,
+    "oraFine": 15,
+    "costo": 20,
+    "dataLezione": "15-05-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d60",
+    "insegnante": "5fc2a91b8f131f14be0aa147",
+    "materia": "Italiano",
+    "accreditata": true,
+    "luogo": "Casa studente",
+    "recensione": {
+      "voto": 4,
+      "commento": "Lezione interessante.",
+      "dataVoto": "15-05-2024"
+    }
+  },
+  {
+    "oraInizio": 10,
+    "oraFine": 11,
+    "costo": 25,
+    "dataLezione": "12-05-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d61",
+    "insegnante": "5fc2a91b8f131f14be0aa150",
+    "materia": "Musica",
+    "accreditata": true,
+    "luogo": "Casa insegnante",
+    "recensione": {
+      "voto": 4,
+      "commento": "Molto utile.",
+      "dataVoto": "12-05-2024"
+    }
+  },
+  {
+    "oraInizio": 11,
+    "oraFine": 12,
+    "costo": 15,
+    "dataLezione": "08-05-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d62",
+    "insegnante": "5fc2a91b8f131f14be0aa148",
+    "materia": "Biologia",
+    "accreditata": true,
+    "luogo": "Online",
+    "recensione": {
+      "voto": 5,
+      "commento": "Eccellente spiegazione.",
+      "dataVoto": "08-05-2024"
+    }
+  },
+  {
+    "oraInizio": 13,
+    "oraFine": 14,
+    "costo": 30,
+    "dataLezione": "04-05-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d63",
+    "insegnante": "5fc2a91b8f131f14be0aa149",
+    "materia": "Inglese",
+    "accreditata": true,
+    "luogo": "Casa studente",
+    "recensione": {
+      "voto": 4,
+      "commento": "Lezione ben strutturata.",
+      "dataVoto": "04-05-2024"
+    }
+  },
+  {
+    "oraInizio": 15,
+    "oraFine": 16,
+    "costo": 25,
+    "dataLezione": "01-05-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d64",
+    "insegnante": "5fc2a91b8f131f14be0aa146",
+    "materia": "Fisica",
+    "accreditata": true,
+    "luogo": "Casa insegnante",
+    "recensione": {
+      "voto": 5,
+      "commento": "Ottima lezione!",
+      "dataVoto": "01-05-2024"
+    }
+  },
+  {
+    "oraInizio": 16,
+    "oraFine": 17,
+    "costo": 20,
+    "dataLezione": "28-04-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d65",
+    "insegnante": "5fc2a91b8f131f14be0aa151",
+    "materia": "Algebra Lineare",
+    "accreditata": true,
+    "luogo": "Online",
+    "recensione": {
+      "voto": 4,
+      "commento": "Buona lezione.",
+      "dataVoto": "28-04-2024"
+    }
+  },
+  {
+    "oraInizio": 17,
+    "oraFine": 18,
+    "costo": 30,
+    "dataLezione": "25-04-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d66",
+    "insegnante": "5fc2a91b8f131f14be0aa149",
+    "materia": "Arte",
+    "accreditata": true,
+    "luogo": "Casa studente",
+    "recensione": {
+      "voto": 5,
+      "commento": "Lezione molto creativa.",
+      "dataVoto": "25-04-2024"
+    }
+  },
+  {
+    "oraInizio": 9,
+    "oraFine": 10,
+    "costo": 15,
+    "dataLezione": "20-04-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d67",
+    "insegnante": "5fc2a91b8f131f14be0aa137",
+    "materia": "Chimica",
+    "accreditata": true,
+    "luogo": "Casa insegnante",
+    "recensione": {
+      "voto": 4,
+      "commento": "Lezione ben fatta.",
+      "dataVoto": "20-04-2024"
+    }
+  },
+  {
+    "oraInizio": 14,
+    "oraFine": 15,
+    "costo": 20,
+    "dataLezione": "15-04-2024",
+    "studente": "60d5ecb8e7179a1a1b4f4d68",
+    "insegnante": "5fc2a91b8f131f14be0aa140",
+    "materia": "Analisi Matematica",
+    "accreditata": true,
+    "luogo": "Online",
+    "recensione": {
+      "voto": 5,
+      "commento": "Spiegazione chiara e precisa.",
+      "dataVoto": "15-04-2024"
+    }
+  }
+]

@@ -1,0 +1,575 @@
+[{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3bd"
+  },
+  "Nome": "Alessandro",
+  "Cognome": "Rossi",
+  "Email": "alessandro.rossi@example.com",
+  "Username": "alessandrorossi",
+  "Password": "password123",
+  "Citta": "Roma",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Universita",
+  "Rifiuti": 1,
+  "TariffaOraria": 25,
+  "Sesso": "M",
+  "Materie": [
+    "Matematica",
+    "Fisica"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3be"
+  },
+  "Nome": "Francesca",
+  "Cognome": "Bianchi",
+  "Email": "francesca.bianchi@example.com",
+  "Username": "francescabianchi",
+  "Password": "password456",
+  "Citta": "Milano",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Medie",
+  "Rifiuti": 2,
+  "TariffaOraria": 20,
+  "Sesso": "F",
+  "Materie": [
+    "Italiano",
+    "Storia"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3bf"
+  },
+  "Nome": "Matteo",
+  "Cognome": "Verdi",
+  "Email": "matteo.verdi@example.com",
+  "Username": "matteoverdi",
+  "Password": "password789",
+  "Citta": "Napoli",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Elementari",
+  "Rifiuti": 0,
+  "TariffaOraria": 15,
+  "Sesso": "M",
+  "Materie": [
+    "Chimica",
+    "Biologia"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c0"
+  },
+  "Nome": "Giorgia",
+  "Cognome": "Esposito",
+  "Email": "giorgia.esposito@example.com",
+  "Username": "giorgiaesposito",
+  "Password": "password987",
+  "Citta": "Firenze",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Superiori",
+  "Rifiuti": 2,
+  "TariffaOraria": 30,
+  "Sesso": "F",
+  "Materie": [
+    "Inglese",
+    "Arte"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c1"
+  },
+  "Nome": "Davide",
+  "Cognome": "Russo",
+  "Email": "davide.russo@example.com",
+  "Username": "daviderusso",
+  "Password": "password321",
+  "Citta": "Torino",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Medie",
+  "Rifiuti": 1,
+  "TariffaOraria": 25,
+  "Sesso": "M",
+  "Materie": [
+    "Musica",
+    "Educazione Fisica"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c2"
+  },
+  "Nome": "Elena",
+  "Cognome": "Ferrari",
+  "Email": "elena.ferrari@example.com",
+  "Username": "elenaferrari",
+  "Password": "password654",
+  "Citta": "Bologna",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Elementari",
+  "Rifiuti": 1,
+  "TariffaOraria": 20,
+  "Sesso": "F",
+  "Materie": [
+    "Analisi Matematica",
+    "Algebra Lineare"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c3"
+  },
+  "Nome": "Fabio",
+  "Cognome": "Leone",
+  "Email": "fabio.leone@example.com",
+  "Username": "fabileone",
+  "Password": "password789",
+  "Citta": "Roma",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Medie",
+  "Rifiuti": 3,
+  "TariffaOraria": 25,
+  "Sesso": "M",
+  "Materie": [
+    "Fisica Generale",
+    "Programmazione Java"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c4"
+  },
+  "Nome": "Valentina",
+  "Cognome": "Gallo",
+  "Email": "valentina.gallo@example.com",
+  "Username": "valentinagallo",
+  "Password": "password246",
+  "Citta": "Milano",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Superiori",
+  "Rifiuti": 2,
+  "TariffaOraria": 30,
+  "Sesso": "F",
+  "Materie": [
+    "Basi di Dati",
+    "Sistemi Operativi"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c5"
+  },
+  "Nome": "Roberto",
+  "Cognome": "Rossi",
+  "Email": "roberto.rossi@example.com",
+  "Username": "robertorossi",
+  "Password": "password987",
+  "Citta": "Napoli",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Elementari",
+  "Rifiuti": 1,
+  "TariffaOraria": 15,
+  "Sesso": "M",
+  "Materie": [
+    "Architettura dei Calcolatori",
+    "Ingegneria del Software"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c6"
+  },
+  "Nome": "Martina",
+  "Cognome": "Bianchi",
+  "Email": "martina.bianchi@example.com",
+  "Username": "martinabianchi",
+  "Password": "password321",
+  "Citta": "Firenze",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Medie",
+  "Rifiuti": 0,
+  "TariffaOraria": 20,
+  "Sesso": "F",
+  "Materie": [
+    "Reti di Calcolatori",
+    "Linguaggi Formali e Compilatori"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c7"
+  },
+  "Nome": "Maria",
+  "Cognome": "Rossi",
+  "Email": "maria.rossi@example.com",
+  "Username": "mariarossi",
+  "Password": "password123",
+  "Citta": "Roma",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Elementari",
+  "Rifiuti": 1,
+  "TariffaOraria": 20,
+  "Sesso": "F",
+  "Materie": [
+    "Matematica",
+    "Fisica"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c8"
+  },
+  "Nome": "Luigi",
+  "Cognome": "Bianchi",
+  "Email": "luigi.bianchi@example.com",
+  "Username": "luigibianchi",
+  "Password": "password456",
+  "Citta": "Milano",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Medie",
+  "Rifiuti": 3,
+  "TariffaOraria": 25,
+  "Sesso": "M",
+  "Materie": [
+    "Italiano",
+    "Storia"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3c9"
+  },
+  "Nome": "Carla",
+  "Cognome": "Verdi",
+  "Email": "carla.verdi@example.com",
+  "Username": "carlaverdi",
+  "Password": "password789",
+  "Citta": "Napoli",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Superiori",
+  "Rifiuti": 2,
+  "TariffaOraria": 30,
+  "Sesso": "F",
+  "Materie": [
+    "Chimica",
+    "Biologia"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3ca"
+  },
+  "Nome": "Giovanni",
+  "Cognome": "Esposito",
+  "Email": "giovanni.esposito@example.com",
+  "Username": "giovanniesposito",
+  "Password": "password987",
+  "Citta": "Firenze",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Elementari",
+  "Rifiuti": 0,
+  "TariffaOraria": 15,
+  "Sesso": "M",
+  "Materie": [
+    "Inglese",
+    "Arte"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3cb"
+  },
+  "Nome": "Anna",
+  "Cognome": "Russo",
+  "Email": "anna.russo@example.com",
+  "Username": "annarusso",
+  "Password": "password321",
+  "Citta": "Torino",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Medie",
+  "Rifiuti": 2,
+  "TariffaOraria": 25,
+  "Sesso": "F",
+  "Materie": [
+    "Musica",
+    "Educazione Fisica"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3cc"
+  },
+  "Nome": "Marco",
+  "Cognome": "Ferrari",
+  "Email": "marco.ferrari@example.com",
+  "Username": "marcoferrari",
+  "Password": "password654",
+  "Citta": "Bologna",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Universita",
+  "Rifiuti": 1,
+  "TariffaOraria": 30,
+  "Sesso": "M",
+  "Materie": [
+    "Analisi Matematica",
+    "Algebra Lineare"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3cd"
+  },
+  "Nome": "Sofia",
+  "Cognome": "Leone",
+  "Email": "sofia.leone@example.com",
+  "Username": "sofialeone",
+  "Password": "password789",
+  "Citta": "Roma",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Elementari",
+  "Rifiuti": 0,
+  "TariffaOraria": 15,
+  "Sesso": "F",
+  "Materie": [
+    "Fisica Generale",
+    "Programmazione Java"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3ce"
+  },
+  "Nome": "Andrea",
+  "Cognome": "Gallo",
+  "Email": "andrea.gallo@example.com",
+  "Username": "andreagallo",
+  "Password": "password246",
+  "Citta": "Milano",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Medie",
+  "Rifiuti": 3,
+  "TariffaOraria": 20,
+  "Sesso": "M",
+  "Materie": [
+    "Basi di Dati",
+    "Sistemi Operativi"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3cf"
+  },
+  "Nome": "Giulia",
+  "Cognome": "Rossi",
+  "Email": "giulia.rossi@example.com",
+  "Username": "giuliarossi",
+  "Password": "password987",
+  "Citta": "Napoli",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Superiori",
+  "Rifiuti": 2,
+  "TariffaOraria": 25,
+  "Sesso": "F",
+  "Materie": [
+    "Architettura dei Calcolatori",
+    "Ingegneria del Software"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3d0"
+  },
+  "Nome": "Lorenzo",
+  "Cognome": "Bianchi",
+  "Email": "lorenzo.bianchi@example.com",
+  "Username": "lorenzobianchi",
+  "Password": "password321",
+  "Citta": "Firenze",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Universita",
+  "Rifiuti": 1,
+  "TariffaOraria": 30,
+  "Sesso": "M",
+  "Materie": [
+    "Reti di Calcolatori",
+    "Linguaggi Formali e Compilatori"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66544371a93733f45cf0c3d1"
+  },
+  "Nome": "Elisa",
+  "Cognome": "Moretti",
+  "Email": "elisa.moretti@example.com",
+  "Username": "elisamoretti",
+  "Password": "password654",
+  "Citta": "Torino",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "Livello": "Medie",
+  "Rifiuti": 0,
+  "TariffaOraria": 20,
+  "Sesso": "F",
+  "Materie": [
+    "Matematica",
+    "Fisica"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "66588b0fd13be1acd4964da9"
+  },
+  "Citta": "Mantova",
+  "Cognome": "Balotelli",
+  "Descrizione": "Ciao sono Super Mario, il tuo insegnante di fiducia!",
+  "Email": "mario.balotelli@gmail.com",
+  "Livello": "Universita",
+  "Materie": [
+    "Italiano",
+    "Inglese"
+  ],
+  "Nome": "Mario",
+  "Password": "Supermario1",
+  "ProfileImageId": {
+    "$oid": "66601ec8ea54e24914a316a5"
+  },
+  "Rifiuti": 0,
+  "Sesso": "M",
+  "TariffaOraria": 38,
+  "Username": "supermario",
+  "Disponibilita": [
+    {
+      "giorno": "lunedi",
+      "oraInizio": 9,
+      "oraFine": 11
+    },
+    {
+      "giorno": "mercoledi",
+      "oraInizio": 13,
+      "oraFine": 14
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "666081e9ea54e2474c288a77"
+  },
+  "Nome": "Gianmarco",
+  "Cognome": "Petrocelli",
+  "Email": "gian.marco@examlpe.com",
+  "Username": "gianm",
+  "Password": "Password1",
+  "Citta": "Milano",
+  "ProfileImageId": {
+    "$oid": "666081e9ea54e2474c288a72"
+  },
+  "Livello": "Universita",
+  "Rifiuti": 0,
+  "TariffaOraria": 34,
+  "Descrizione": "",
+  "Sesso": "M",
+  "Materie": [
+    "Italiano"
+  ],
+  "Disponibilita": []
+},
+{
+  "_id": {
+    "$oid": "6661ac41ea54e263e4832deb"
+  },
+  "Nome": "Diego",
+  "Cognome": "Milito",
+  "Email": "diego.milito@email.com",
+  "Username": "diegom",
+  "Password": "Password1",
+  "Citta": "Milano",
+  "ProfileImageId": {
+    "$oid": "6661ac41ea54e263e4832de7"
+  },
+  "Livello": "Universita",
+  "Rifiuti": 0,
+  "TariffaOraria": 25,
+  "Descrizione": "Ciao, sono Diego Milito, un professore specializzato in Italiano!",
+  "Sesso": "M",
+  "Materie": [
+    "Italiano"
+  ],
+  "Disponibilita": [
+    {
+      "giorno": "venerdi",
+      "oraInizio": 9,
+      "oraFine": 11
+    },
+    {
+      "giorno": "giovedi",
+      "oraInizio": 9,
+      "oraFine": 14
+    }
+  ]
+}]

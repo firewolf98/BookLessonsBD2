@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e21f"
+  },
+  "Nome": "Marco",
+  "Cognome": "Rossi",
+  "Email": "marco.rossi@example.com",
+  "Username": "marcorossi",
+  "Password": "password123",
+  "Citta": "Roma",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e220"
+  },
+  "Nome": "Anna",
+  "Cognome": "Bianchi",
+  "Email": "anna.bianchi@example.com",
+  "Username": "annabianchi",
+  "Password": "password456",
+  "Citta": "Milano",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e221"
+  },
+  "Nome": "Luca",
+  "Cognome": "Verdi",
+  "Email": "luca.verdi@example.com",
+  "Username": "lucaverdi",
+  "Password": "password789",
+  "Citta": "Napoli",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e222"
+  },
+  "Nome": "Giulia",
+  "Cognome": "Russo",
+  "Email": "giulia.russo@example.com",
+  "Username": "giuliarusso",
+  "Password": "password321",
+  "Citta": "Torino",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e223"
+  },
+  "Nome": "Francesco",
+  "Cognome": "Ferrari",
+  "Email": "francesco.ferrari@example.com",
+  "Username": "francescoferrari",
+  "Password": "password654",
+  "Citta": "Bologna",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e224"
+  },
+  "Nome": "Sara",
+  "Cognome": "Esposito",
+  "Email": "sara.esposito@example.com",
+  "Username": "saraesposito",
+  "Password": "password987",
+  "Citta": "Firenze",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e225"
+  },
+  "Nome": "Davide",
+  "Cognome": "Ricci",
+  "Email": "davide.ricci@example.com",
+  "Username": "davidericci",
+  "Password": "password135",
+  "Citta": "Palermo",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e226"
+  },
+  "Nome": "Martina",
+  "Cognome": "Gallo",
+  "Email": "martina.gallo@example.com",
+  "Username": "martinagallo",
+  "Password": "password246",
+  "Citta": "Genova",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e227"
+  },
+  "Nome": "Simone",
+  "Cognome": "Milani",
+  "Email": "simone.milani@example.com",
+  "Username": "simonemilani",
+  "Password": "password789",
+  "Citta": "Bari",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e228"
+  },
+  "Nome": "Lorenzo",
+  "Cognome": "Conti",
+  "Email": "lorenzo.conti@example.com",
+  "Username": "lorenzoconti",
+  "Password": "password321",
+  "Citta": "Venezia",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e229"
+  },
+  "Nome": "Paola",
+  "Cognome": "Marini",
+  "Email": "paola.marini@example.com",
+  "Username": "paolamarini",
+  "Password": "password654",
+  "Citta": "Trento",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e22a"
+  },
+  "Nome": "Giovanni",
+  "Cognome": "Bernardi",
+  "Email": "giovanni.bernardi@example.com",
+  "Username": "giovannibernardi",
+  "Password": "password987",
+  "Citta": "Brescia",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e22b"
+  },
+  "Nome": "Laura",
+  "Cognome": "Galli",
+  "Email": "test@email.com",
+  "Username": "testProfile",
+  "Password": "test",
+  "Citta": "Padova",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66508d16ed65895bbb21e22c"
+  },
+  "Nome": "Roberto",
+  "Cognome": "Leone",
+  "Email": "roberto.leone@example.com",
+  "Username": "robertoleone",
+  "Password": "password135",
+  "Citta": "Messina",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "Citta": "Potenza",
+  "Cognome": "Esposito",
+  "Email": "lucaesposito2011@hotmail.com",
+  "Nome": "Luca",
+  "Password": "Password1",
+  "ProfileImageId": {
+    "$oid": "66602a9fea54e233ccd9c967"
+  },
+  "Username": "lucaesp"
+},
+{
+  "_id": {
+    "$oid": "6661acd9ea54e263e4832dfd"
+  },
+  "Nome": "User",
+  "Cognome": "Test",
+  "Email": "user.test@email.com",
+  "Username": "usertest",
+  "Password": "Password1",
+  "Citta": "Napoli",
+  "ProfileImageId": {
+    "$oid": "66631acaea54e234d45f6137"
+  }
+},
+{
+  "_id": {
+    "$oid": "6661c2fbea54e22ff46764e6"
+  },
+  "Nome": "User",
+  "Cognome": "Test",
+  "Email": "usertest2@gmail.com",
+  "Username": "usertest2",
+  "Password": "Password1",
+  "Citta": "Salerno",
+  "ProfileImageId": {
+    "$oid": "6661c2fbea54e22ff46764e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6661ccffea54e2632470eca7"
+  },
+  "Nome": "Pippo",
+  "Cognome": "Baudo",
+  "Email": "pippo.baudo@gmail.com",
+  "Username": "pippob",
+  "Password": "Password",
+  "Citta": "Paterno",
+  "ProfileImageId": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  }
+}]

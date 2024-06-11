@@ -1,0 +1,15 @@
+Nome,Cognome,Email,Username,Password,Citta,ProfileImageId
+Marco,Rossi,marco.rossi@example.com,marcorossi,password123,Roma,5fc2a91b8f131f14be0aa123
+Anna,Bianchi,anna.bianchi@example.com,annabianchi,password456,Milano,5fc2a91b8f131f14be0aa123
+Luca,Verdi,luca.verdi@example.com,lucaverdi,password789,Napoli,5fc2a91b8f131f14be0aa123
+Giulia,Russo,giulia.russo@example.com,giuliarusso,password321,Torino,5fc2a91b8f131f14be0aa123
+Francesco,Ferrari,francesco.ferrari@example.com,francescoferrari,password654,Bologna,5fc2a91b8f131f14be0aa123
+Sara,Esposito,sara.esposito@example.com,saraesposito,password987,Firenze,5fc2a91b8f131f14be0aa123
+Davide,Ricci,davide.ricci@example.com,davidericci,password135,Palermo,5fc2a91b8f131f14be0aa123
+Martina,Gallo,martina.gallo@example.com,martinagallo,password246,Genova,5fc2a91b8f131f14be0aa123
+Simone,Milani,simone.milani@example.com,simonemilani,password789,Bari,5fc2a91b8f131f14be0aa123
+Lorenzo,Conti,lorenzo.conti@example.com,lorenzoconti,password321,Venezia,5fc2a91b8f131f14be0aa123
+Paola,Marini,paola.marini@example.com,paolamarini,password654,Trento,5fc2a91b8f131f14be0aa123
+Giovanni,Bernardi,giovanni.bernardi@example.com,giovannibernardi,password987,Brescia,5fc2a91b8f131f14be0aa123
+Laura,Galli,laura.galli@example.com,lauragalli,password246,Padova,5fc2a91b8f131f14be0aa123
+Roberto,Leone,roberto.leone@example.com,robertoleone,password135,Messina,5fc2a91b8f131f14be0aa123

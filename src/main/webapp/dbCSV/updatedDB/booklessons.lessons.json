@@ -1,0 +1,322 @@
+[{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d119"
+  },
+  "oraInizio": 9,
+  "oraFine": 10,
+  "costo": 50,
+  "dataLezione": "20-05-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66544371a93733f45cf0c3bd"
+  },
+  "materia": "Matematica",
+  "accreditata": true,
+  "luogo": "Online",
+  "recensione": {
+    "voto": 4,
+    "commento": "Bella lezione!",
+    "dataVoto": "05-06-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d11a"
+  },
+  "oraInizio": 14,
+  "oraFine": 15,
+  "costo": 20,
+  "dataLezione": "15-05-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66544371a93733f45cf0c3be"
+  },
+  "materia": "Italiano",
+  "accreditata": true,
+  "luogo": "Casa studente",
+  "recensione": {
+    "voto": 4,
+    "commento": "Lezione interessante.",
+    "dataVoto": "15-05-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d11b"
+  },
+  "oraInizio": 10,
+  "oraFine": 11,
+  "costo": 25,
+  "dataLezione": "12-05-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66544371a93733f45cf0c3c1"
+  },
+  "materia": "Musica",
+  "accreditata": true,
+  "luogo": "Casa insegnante",
+  "recensione": {
+    "voto": 4,
+    "commento": "Molto utile.",
+    "dataVoto": "12-05-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d11c"
+  },
+  "oraInizio": 11,
+  "oraFine": 12,
+  "costo": 15,
+  "dataLezione": "08-05-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66588b0fd13be1acd4964da9"
+  },
+  "materia": "Biologia",
+  "accreditata": true,
+  "luogo": "Online",
+  "recensione": {
+    "voto": 5,
+    "commento": "Eccellente spiegazione.",
+    "dataVoto": "08-05-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d11d"
+  },
+  "oraInizio": 13,
+  "oraFine": 14,
+  "costo": 30,
+  "dataLezione": "04-05-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66588b0fd13be1acd4964da9"
+  },
+  "materia": "Inglese",
+  "accreditata": true,
+  "luogo": "Casa studente",
+  "recensione": {
+    "voto": 4,
+    "commento": "Lezione ben strutturata.",
+    "dataVoto": "04-05-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d11e"
+  },
+  "oraInizio": 15,
+  "oraFine": 16,
+  "costo": 25,
+  "dataLezione": "01-05-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66588b0fd13be1acd4964da9"
+  },
+  "materia": "Fisica",
+  "accreditata": true,
+  "luogo": "Casa insegnante",
+  "recensione": {
+    "voto": 5,
+    "commento": "Ottima lezione!",
+    "dataVoto": "01-05-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d11f"
+  },
+  "oraInizio": 16,
+  "oraFine": 17,
+  "costo": 20,
+  "dataLezione": "28-04-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66588b0fd13be1acd4964da9"
+  },
+  "materia": "Algebra Lineare",
+  "accreditata": true,
+  "luogo": "Online",
+  "recensione": {
+    "voto": 4,
+    "commento": "Buona lezione.",
+    "dataVoto": "28-04-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d120"
+  },
+  "oraInizio": 17,
+  "oraFine": 18,
+  "costo": 30,
+  "dataLezione": "25-04-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66588b0fd13be1acd4964da9"
+  },
+  "materia": "Arte",
+  "accreditata": true,
+  "luogo": "Casa studente",
+  "recensione": {
+    "voto": 5,
+    "commento": "Lezione molto creativa.",
+    "dataVoto": "25-04-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d121"
+  },
+  "oraInizio": 9,
+  "oraFine": 10,
+  "costo": 15,
+  "dataLezione": "20-04-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66588b0fd13be1acd4964da9"
+  },
+  "materia": "Chimica",
+  "accreditata": true,
+  "luogo": "Casa insegnante",
+  "recensione": {
+    "voto": 4,
+    "commento": "Lezione ben fatta.",
+    "dataVoto": "20-04-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "66558e43ffa1b3024cb2d122"
+  },
+  "oraInizio": 14,
+  "oraFine": 15,
+  "costo": 20,
+  "dataLezione": "15-04-2024",
+  "studente": {
+    "$oid": "66589bdbd13be15dc8859dd5"
+  },
+  "insegnante": {
+    "$oid": "66588b0fd13be1acd4964da9"
+  },
+  "materia": "Analisi Matematica",
+  "accreditata": true,
+  "luogo": "Online",
+  "recensione": {
+    "voto": 5,
+    "commento": "Spiegazione chiara e precisa.",
+    "dataVoto": "15-04-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "6661bbdbea54e25ab05bd589"
+  },
+  "oraInizio": 9,
+  "oraFine": 11,
+  "costo": 50,
+  "dataLezione": "14-06-2024",
+  "studente": {
+    "$oid": "6661acd9ea54e263e4832dfd"
+  },
+  "insegnante": {
+    "$oid": "6661ac41ea54e263e4832deb"
+  },
+  "materia": "Italiano",
+  "accreditata": false,
+  "luogo": "Online",
+  "recensione": {
+    "voto": 0,
+    "commento": null,
+    "dataVoto": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6661c0dbea54e2232c8a5521"
+  },
+  "oraInizio": 10,
+  "oraFine": 11,
+  "costo": 25,
+  "dataLezione": "21-05-2024",
+  "studente": {
+    "$oid": "6661acd9ea54e263e4832dfd"
+  },
+  "insegnante": {
+    "$oid": "6661ac41ea54e263e4832deb"
+  },
+  "materia": "Italiano",
+  "accreditata": false,
+  "luogo": "Casa insegnante",
+  "recensione": {
+    "voto": 5,
+    "commento": "Ottimo!",
+    "dataVoto": "06-06-2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "6661c55fea54e24fa48654cb"
+  },
+  "oraInizio": 10,
+  "oraFine": 11,
+  "costo": 25,
+  "dataLezione": "21-06-2024",
+  "studente": {
+    "$oid": "6661c2fbea54e22ff46764e6"
+  },
+  "insegnante": {
+    "$oid": "6661ac41ea54e263e4832deb"
+  },
+  "materia": "Italiano",
+  "accreditata": false,
+  "luogo": "Casa studente",
+  "recensione": {
+    "voto": 0,
+    "commento": null,
+    "dataVoto": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6661c5bcea54e2126c7126c0"
+  },
+  "oraInizio": 12,
+  "oraFine": 14,
+  "costo": 50,
+  "dataLezione": "20-06-2024",
+  "studente": {
+    "$oid": "6661c2fbea54e22ff46764e6"
+  },
+  "insegnante": {
+    "$oid": "6661ac41ea54e263e4832deb"
+  },
+  "materia": "Italiano",
+  "accreditata": false,
+  "luogo": "Casa insegnante",
+  "recensione": {
+    "voto": 0,
+    "commento": null,
+    "dataVoto": null
+  }
+}]

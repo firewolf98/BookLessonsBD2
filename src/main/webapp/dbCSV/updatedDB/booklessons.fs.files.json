@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "66587194d13be1927040c491"
+  },
+  "filename": "no_profilo_image.jpg",
+  "length": 2697,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-05-30T12:31:16.247Z"
+  },
+  "md5": "6e7df699c24531107b5aced3c560718b"
+},
+{
+  "_id": {
+    "$oid": "66587346d13be1927040c497"
+  },
+  "filename": "no_profilo_image.jpg",
+  "length": 2697,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-05-30T12:38:30.741Z"
+  },
+  "md5": "6e7df699c24531107b5aced3c560718b"
+},
+{
+  "_id": {
+    "$oid": "66587379d13be1927040c49d"
+  },
+  "filename": "no_profilo_image.jpg",
+  "length": 2697,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-05-30T12:39:21.955Z"
+  },
+  "md5": "6e7df699c24531107b5aced3c560718b"
+},
+{
+  "_id": {
+    "$oid": "66588b0fd13be1acd4964da5"
+  },
+  "filename": "no_profilo_image.jpg",
+  "length": 2697,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-05-30T14:19:59.633Z"
+  },
+  "md5": "6e7df699c24531107b5aced3c560718b"
+},
+{
+  "_id": {
+    "$oid": "66601b86ea54e23a8822b5c4"
+  },
+  "filename": "no_profilo_image.jpg",
+  "length": 2697,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-06-05T08:02:14.870Z"
+  },
+  "md5": "6e7df699c24531107b5aced3c560718b"
+},
+{
+  "_id": {
+    "$oid": "66601b8cea54e23a8822b5c9"
+  },
+  "filename": "no_profilo_image.jpg",
+  "length": 2697,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-06-05T08:02:20.723Z"
+  },
+  "md5": "6e7df699c24531107b5aced3c560718b"
+},
+{
+  "_id": {
+    "$oid": "66601ec8ea54e24914a316a5"
+  },
+  "filename": "test.jpg",
+  "length": 58250,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-06-05T08:16:08.153Z"
+  },
+  "md5": "0287d2c73e9b58fab57166c9fb8786d5"
+},
+{
+  "_id": {
+    "$oid": "66602223ea54e21bc0b23453"
+  },
+  "filename": "bin.png",
+  "length": 701589,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-06-05T08:30:27.188Z"
+  },
+  "md5": "9cdae23d31b2a8bfbe90b62fa4712f33"
+},
+{
+  "_id": {
+    "$oid": "66602a2dea54e20c203d92f6"
+  },
+  "filename": "foto_prof.png",
+  "length": 551118,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-06-05T09:04:45.217Z"
+  },
+  "md5": "396ae0f0631ee1cba6c218e3d3c4f7a4"
+},
+{
+  "_id": {
+    "$oid": "66602a9fea54e233ccd9c967"
+  },
+  "filename": "bin.png",
+  "length": 701589,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-06-05T09:06:39.475Z"
+  },
+  "md5": "9cdae23d31b2a8bfbe90b62fa4712f33"
+},
+{
+  "_id": {
+    "$oid": "666081e9ea54e2474c288a72"
+  },
+  "filename": "bin.png",
+  "length": 701589,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-06-05T15:19:05.571Z"
+  },
+  "md5": "9cdae23d31b2a8bfbe90b62fa4712f33"
+},
+{
+  "_id": {
+    "$oid": "6661ac41ea54e263e4832de7"
+  },
+  "filename": "milito.jpg",
+  "length": 42655,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-06-06T12:32:01.653Z"
+  },
+  "md5": "1d1465cd7ce7a984ee8200740f720070"
+},
+{
+  "_id": {
+    "$oid": "66631acaea54e234d45f6137"
+  },
+  "filename": "milito.jpg",
+  "length": 42655,
+  "chunkSize": 358400,
+  "uploadDate": {
+    "$date": "2024-06-07T14:35:54.463Z"
+  },
+  "md5": "1d1465cd7ce7a984ee8200740f720070"
+}]
