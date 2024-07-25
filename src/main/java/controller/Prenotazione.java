@@ -1,6 +1,8 @@
 package controller;
 
 import java.io.IOException;
+import java.util.List;
+
 import org.bson.types.ObjectId;
 
 import jakarta.servlet.RequestDispatcher;
@@ -58,6 +60,10 @@ public class Prenotazione extends HttpServlet{
 					LezioneDAO ldao = new LezioneDAO();
 					ldao.createLezione(lezione);
 					request.setAttribute("ris", true);
+					
+					List<LezioneBean> lezioni=ldao.getLezioniByStudente(studente.getId());
+					session.setAttribute("lezioni", lezioni);
+					
 					RequestDispatcher requestDispatcher = request.getRequestDispatcher("outputPrenotazione.jsp");
 					requestDispatcher.forward(request, response);
 				} catch (Exception e) {

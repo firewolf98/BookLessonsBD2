@@ -72,7 +72,7 @@
 		
 		
 				<div>
-					<div class="col-md-6">
+					<div class="col-md-4">
 						<h4>
 							<br>Studente:
 							<b><i><%=y.getStudente().getNome()%>
@@ -97,8 +97,19 @@
 							<br>Materia:
 							<b><i><%=y.getMateria()%></i></b></h4>
 
-					<div style="height: 20px"><hr></div>
+					<div class="col-md-2">
+						<div class="col-md-12" align="center">
+								<form action="RifiutaLezione" method="post">
+								<input type="hidden" name="codiceLezione" value="<%= y.getId() %>">
+								<button type="submit" class="btn btn-primary">Rifiuta</button>
+							</form>
+							</div>
 					</div>
+
+					<div style="height: 20px"><hr></div>
+					
+					</div>
+					
 				</div>
 				
 
