@@ -2,6 +2,8 @@
 
 A web application for booking online lessons.
 
+![alt text](<home.png>)
+
 ## 📌 Description
 
 **BookLessons** is a Java web application developed for 'Basi di Dati II' exam in Data Science & Machine Learning at University of Salerno.
